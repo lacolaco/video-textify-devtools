@@ -1,0 +1,13 @@
+{
+  "name": "Textify",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Extract timed text from video",
+  "devtools_page": "devtools.html",
+  "permissions": [
+    "tabs",
+    "history",
+    "http://*/*",
+    "https://*/*"
+  ]
+}
